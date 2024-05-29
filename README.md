@@ -6,6 +6,7 @@ We have implemented our label error detection framework in the open source [MMDe
 ```
     - configs
     - mmdet
+    - tools
 ```
 into the repository structure (replacing some of the existing model definitions which is necessary to allow for, e.g., loss tracking during first and second stages).
 
